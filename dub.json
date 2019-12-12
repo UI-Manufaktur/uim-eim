@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"uim"
+	],
+	"copyright": "Copyright © 2019, uim",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "uim-eim"
+}
